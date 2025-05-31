@@ -1,4 +1,0 @@
-flask
-twilio
-requests
-beautifulsoup4
